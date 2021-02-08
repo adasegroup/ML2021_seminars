@@ -4,6 +4,8 @@ This is a repository containing the seminars for the Skoltech's Machine Learning
 ## The list of the current seminars published (will be updated with time):
 * SEMINAR 1 (02.02): Ilya Trofimov - Introduction to Python and Machine Learning
 * SEMINAR 2 (04.02): Alexey Zaycev - Regression
+* SEMINAR 3 (05.02): Ilya Trofimov - Classification
+* SEMINAR 4 (09.02): Andrey Lange - SVM
 
 
 ## Course Description:
