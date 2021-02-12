@@ -7,6 +7,7 @@ This is a repository containing the seminars for the Skoltech's Machine Learning
 * SEMINAR 3 (05.02): Ilya Trofimov - Classification
 * SEMINAR 4 (09.02): Andrey Lange - SVM
 * SEMINAR 5 (11.02): Andrey Lange - Trees, Bagging, Random Forest
+* SEMINAR 6 (12.02): Denis Volkhonskiy - AdaBoost
 
 
 ## Course Description:
