@@ -9,6 +9,7 @@ This is a repository containing the seminars for the Skoltech's Machine Learning
 * SEMINAR 5 (11.02): Andrey Lange - Trees, Bagging, Random Forest
 * SEMINAR 6 (12.02): Denis Volkhonskiy - AdaBoost
 * SEMINAR 7 (16.02): Andrey Lange - Gradient Boosting
+* SEMINAR 8 (18.02): Nina Mazyavkina - Imabalanced and Multi-Class Classification
 
 
 ## Course Description:
