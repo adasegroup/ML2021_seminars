@@ -11,6 +11,8 @@ This is a repository containing the seminars for the Skoltech's Machine Learning
 * SEMINAR 7 (16.02): Andrey Lange - Gradient Boosting
 * SEMINAR 8 (18.02): Nina Mazyavkina - Imabalanced and Multi-Class Classification
 * SEMINAR 9 (19.02): Oleg Voynov - Shallow Artificial Neural Networks
+* SEMINAR 10 (20.02): Yermek Kapushev - Model and Feature Selection 
+* SEMINAR 11 (25.02): Oleg Voynov - Deep Learning
 
 
 ## Course Description:
