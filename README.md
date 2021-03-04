@@ -14,6 +14,7 @@ This is a repository containing the seminars for the Skoltech's Machine Learning
 * SEMINAR 10 (20.02): Yermek Kapushev - Model and Feature Selection 
 * SEMINAR 11 (25.02): Oleg Voynov - Deep Learning
 * SEMINAR 12 (02.03): Nikita Balabin - Bayesian Machine Learning 
+* SEMINAR 13 (04.03): Yermek Kapushev - Gaussian Processes
 
 
 ## Course Description:
