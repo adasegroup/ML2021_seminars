@@ -16,6 +16,7 @@ This is a repository containing the seminars for the Skoltech's Machine Learning
 * SEMINAR 12 (02.03): Nikita Balabin - Bayesian Machine Learning 
 * SEMINAR 13 (04.03): Yermek Kapushev - Gaussian Processes
 * SEMINAR 14 (05.03): Ekaterina Kondrateva - Dimensionality Reduction
+* SEMINAR 15 (09.03): Nikita Klyuchnikov - Anomaly Detection
 
 
 ## Course Description:
